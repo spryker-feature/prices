@@ -13,9 +13,9 @@
     "spryker/currency": "^3.5.2",
     "spryker/price": "^5.3.0",
     "spryker/price-data-feed": "^0.2.1",
-    "spryker/price-product": "^2.7.1",
+    "spryker/price-product": "^2.8.0",
     "spryker/price-product-data-import": "^0.1.5",
-    "spryker/price-product-storage": "^2.9.0",
+    "spryker/price-product-storage": "^2.10.0",
     "spryker/price-product-volume": "^1.1.1",
     "spryker/price-product-volume-gui": "^1.0.4"
   }
