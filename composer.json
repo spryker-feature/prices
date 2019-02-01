@@ -18,5 +18,10 @@
     "spryker/price-product-storage": "^2.10.0",
     "spryker/price-product-volume": "^1.1.1",
     "spryker/price-product-volume-gui": "^1.0.4"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
