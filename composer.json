@@ -11,7 +11,7 @@
     "spryker-shop/money-widget": "^1.1.3",
     "spryker-shop/price-product-volume-widget": "^1.1.0",
     "spryker-shop/price-widget": "^1.1.1",
-    "spryker/currency": "^3.5.2",
+    "spryker/currency": "^3.5.3",
     "spryker/price": "^5.3.0",
     "spryker/price-data-feed": "^0.2.1",
     "spryker/price-product": "^2.8.0",
