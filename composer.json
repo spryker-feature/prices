@@ -14,7 +14,7 @@
     "spryker/currency": "^3.5.3",
     "spryker/price": "^5.4.0",
     "spryker/price-data-feed": "^0.2.1",
-    "spryker/price-product": "^2.9.0",
+    "spryker/price-product": "^2.9.1",
     "spryker/price-product-data-import": "^0.1.5",
     "spryker/price-product-storage": "^2.12.0",
     "spryker/price-product-volume": "^1.1.2",
@@ -22,7 +22,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "201902.x-dev"
+      "dev-master": "201903.x-dev"
     }
   }
 }
