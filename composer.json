@@ -14,11 +14,11 @@
     "spryker/currency": "^3.5.3",
     "spryker/price": "^5.4.0",
     "spryker/price-data-feed": "^0.2.1",
-    "spryker/price-product": "^2.10.1",
+    "spryker/price-product": "^3.0.0",
     "spryker/price-product-data-import": "^0.1.5",
-    "spryker/price-product-storage": "^2.12.0",
-    "spryker/price-product-volume": "^1.1.2",
-    "spryker/price-product-volume-gui": "^1.0.4"
+    "spryker/price-product-storage": "^3.0.0",
+    "spryker/price-product-volume": "^2.0.0",
+    "spryker/price-product-volume-gui": "^2.0.0"
   },
   "extra": {
     "branch-alias": {
