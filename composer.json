@@ -8,9 +8,9 @@
   "require": {
     "php": ">=7.1",
     "spryker-shop/currency-widget": "^1.1.1",
-    "spryker-shop/money-widget": "^1.1.3",
-    "spryker-shop/price-product-volume-widget": "^1.1.0",
-    "spryker-shop/price-widget": "^1.1.1",
+    "spryker-shop/money-widget": "^1.2.0",
+    "spryker-shop/price-product-volume-widget": "^1.2.0",
+    "spryker-shop/price-widget": "^1.2.0",
     "spryker/currency": "^3.5.3",
     "spryker/price": "^5.4.0",
     "spryker/price-data-feed": "^0.2.1",
