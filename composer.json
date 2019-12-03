@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=7.1",
+    "php": ">=7.2",
     "spryker-shop/currency-widget": "^1.1.1",
     "spryker-shop/money-widget": "^1.2.0",
     "spryker-shop/price-product-volume-widget": "^1.2.0",
