@@ -10,6 +10,7 @@
     "spryker-shop/currency-widget": "^1.1.1",
     "spryker-shop/money-widget": "^1.2.0",
     "spryker-shop/price-product-volume-widget": "^1.2.0",
+    "spryker-shop/price-product-widget": "^1.0.0",
     "spryker-shop/price-widget": "^1.2.0",
     "spryker/currency": "^3.10.0",
     "spryker/price": "^5.5.0",
