@@ -10,5 +10,5 @@ composer require spryker-feature/prices
 
 ## Optional modules
 - [CartCurrencyConnector ^1.1.1](https://github.com/spryker/cart-currency-connector) (Connector)
-- [PriceCartConnector ^6.1.0](https://github.com/spryker/price-cart-connector) (Connector)
-- [ProductPricesRestApi ^1.2.0](https://github.com/spryker/product-prices-rest-api) (Glue)
+- [PriceCartConnector ^6.5.0](https://github.com/spryker/price-cart-connector) (Connector)
+- [ProductPricesRestApi ^1.4.0](https://github.com/spryker/product-prices-rest-api) (Glue)
