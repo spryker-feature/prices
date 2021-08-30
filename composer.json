@@ -1,29 +1,29 @@
 {
-  "name": "spryker-feature/prices",
-  "description": "Prices [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker-shop/currency-widget": "^1.4.0",
-    "spryker-shop/money-widget": "^1.2.0",
-    "spryker-shop/price-product-volume-widget": "^1.4.0",
-    "spryker-shop/price-product-widget": "^1.0.0",
-    "spryker-shop/price-widget": "^1.4.0",
-    "spryker/currency": "^3.11.0",
-    "spryker/price": "^5.6.0",
-    "spryker/price-data-feed": "^0.2.1",
-    "spryker/price-product": "^4.18.0",
-    "spryker/price-product-data-import": "^0.1.5",
-    "spryker/price-product-storage": "^4.5.0",
-    "spryker/price-product-volume": "^3.0.0",
-    "spryker/price-product-volume-gui": "^3.0.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/prices",
+    "description": "Prices [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker-shop/currency-widget": "^1.4.0",
+        "spryker-shop/money-widget": "^1.4.0",
+        "spryker-shop/price-product-volume-widget": "^1.6.0",
+        "spryker-shop/price-product-widget": "^1.0.0",
+        "spryker-shop/price-widget": "^1.4.0",
+        "spryker/currency": "^3.13.0",
+        "spryker/price": "^5.6.0",
+        "spryker/price-data-feed": "^0.2.1",
+        "spryker/price-product": "^4.31.0",
+        "spryker/price-product-data-import": "^0.1.5",
+        "spryker/price-product-storage": "^4.7.0",
+        "spryker/price-product-volume": "^3.3.0",
+        "spryker/price-product-volume-gui": "^3.1.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
     }
-  }
 }
