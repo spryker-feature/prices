@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.4",
         "spryker-shop/currency-widget": "^1.4.0",
         "spryker-shop/money-widget": "^1.4.0",
         "spryker-shop/price-product-volume-widget": "^1.6.0",
@@ -23,7 +23,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202108.x-dev"
+            "dev-master": "202204.x-dev"
         }
     }
 }
