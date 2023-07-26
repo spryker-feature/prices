@@ -7,25 +7,25 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.0",
-        "spryker-shop/currency-widget": "^1.5.0",
-        "spryker-shop/money-widget": "^1.6.0",
-        "spryker-shop/price-product-volume-widget": "^1.8.0",
+        "spryker-shop/currency-widget": "^1.6.0",
+        "spryker-shop/money-widget": "^1.7.0",
+        "spryker-shop/price-product-volume-widget": "^1.9.0",
         "spryker-shop/price-product-widget": "^1.0.0",
         "spryker-shop/price-widget": "^1.4.0",
         "spryker/currency": "^4.0.0",
         "spryker/currency-data-import": "^0.1.0",
         "spryker/currency-gui": "^1.0.0",
-        "spryker/price": "^5.6.0",
+        "spryker/price": "^5.7.0",
         "spryker/price-data-feed": "^0.2.1",
-        "spryker/price-product": "^4.37.0",
+        "spryker/price-product": "^4.42.0",
         "spryker/price-product-data-import": "^0.1.5",
         "spryker/price-product-storage": "^4.9.0",
-        "spryker/price-product-volume": "^3.3.0",
-        "spryker/price-product-volume-gui": "^3.2.0"
+        "spryker/price-product-volume": "^3.4.0",
+        "spryker/price-product-volume-gui": "^3.3.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202212.x-dev"
+            "dev-master": "202307.x-dev"
         }
     }
 }
