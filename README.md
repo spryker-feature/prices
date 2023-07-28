@@ -2,6 +2,8 @@
 
 The Prices feature is about product prices, including support of Price Dimensions, Auto-Detect of Currency, Volume prices, Net & Gross price modes
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/price-management/202307.0/base-shop/prices-feature-overview/prices-feature-overview.html)
+
 ## Installation
 
 ```
