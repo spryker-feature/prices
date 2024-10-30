@@ -16,5 +16,5 @@ composer require spryker-feature/prices
 - [PriceCartConnectorExtension ^1.1.0](https://github.com/spryker/price-cart-connector-extension) (Extension)
 - [PriceProductMerchantCommissionConnector ^1.0.0](https://github.com/spryker/price-product-merchant-commission-connector) (Connector)
 - [PriceProductVolumesRestApi ^1.1.0](https://github.com/spryker/price-product-volumes-rest-api) (Legacy Glue)
-- [ProductPricesRestApi ^1.8.0](https://github.com/spryker/product-prices-rest-api) (Legacy Glue)
+- [ProductPricesRestApi ^1.9.0](https://github.com/spryker/product-prices-rest-api) (Legacy Glue)
 - [ProductPricesRestApiExtension ^1.0.0](https://github.com/spryker/product-prices-rest-api-extension) (Extension)
