@@ -17,15 +17,15 @@
         "spryker/currency-gui": "^1.2.0",
         "spryker/price": "^5.9.0",
         "spryker/price-data-feed": "^0.2.1",
-        "spryker/price-product": "^4.50.0",
+        "spryker/price-product": "^4.52.0",
         "spryker/price-product-data-import": "^0.1.5",
-        "spryker/price-product-storage": "^4.15.0",
+        "spryker/price-product-storage": "^4.17.0",
         "spryker/price-product-volume": "^3.6.0",
         "spryker/price-product-volume-gui": "^3.5.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202604.x-dev"
+            "dev-master": "202606.x-dev"
         }
     }
 }
